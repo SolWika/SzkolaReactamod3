@@ -1,0 +1,17 @@
+export const colors = {
+  amethyst: "#9B59B6",
+  turqoise: "#1ABC9C",
+  alizarin: "#E74C3C",
+  orange: "#F39C12",
+  heliotrope: "#e056fd",
+  quinceJelly: "#f0932b",
+  belizeHole: "#2980B9",
+  silver: "#BDC3C7",
+  sunFlower: "#F1C40F",
+  greenSea: "#16A085",
+  blueNights: "#353b48",
+  clouds: "#81a5ba",
+  white: "#ffffff",
+  black: "#000000",
+  americanRiver: "#636e72",
+};
